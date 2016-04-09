@@ -12,7 +12,7 @@ Run the following to see your options:
 
 
 
-This is a multi-threaded CPU miner for Litecoin and Bitcoin,
+This is a multi-threaded CPU miner for Mcgregor, Litecoin and Bitcoin,
 fork of Jeff Garzik's reference cpuminer.
 
 License: GPLv2.  See COPYING for details.
