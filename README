@@ -1,3 +1,17 @@
+This is a fork of the CPU miner project @ https://github.com/pooler/cpuminer
+
+To use this to mine MACs you will need to compile the code, see below. Also, make sure that yoiu have the dependencies listed below installed or the code will not compile.
+Following this you can run a command like this in a terminal/command prompt:
+
+./minerd -a scrypt -s 2 --threads 7 --url http://127.0.0.1:18889 --userpass McGregorrpc:********your_RPC_password*********** --coinbase-addr=*****Your Mcgregor Address********
+
+Run the following to see your options: 
+```
+./minerd --help
+```
+
+
+
 This is a multi-threaded CPU miner for Litecoin and Bitcoin,
 fork of Jeff Garzik's reference cpuminer.
 
